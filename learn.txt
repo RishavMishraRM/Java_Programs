@@ -1,0 +1,23 @@
+Data_Types
+
+1. Primitive Data Types
+a) Integer => bytes, short, int, long
+b) Float => double, float
+c) Character
+d) Boolean
+
+int  => 4 bytes
+long => 8 bytes
+short => 2 bytes
+bytes => 1 bytes => -2**7 to 2**7 - 1 => -128 to 127
+
+double num = 5.6
+float num = 5.6f
+
+char => 2 bytes
+UNICODE
+char C => 'K', single coat only
+
+Boolean => True or False
+
+2. 

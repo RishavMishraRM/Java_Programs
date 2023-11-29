@@ -17,6 +17,12 @@ class Conv_Cast
         byte k = (byte) a;
         System.out.println(k);
 
+
+        int mt = 257;
+        byte kt = (byte) mt;
+        System.out.println(kt);
+
+
         float f = 5.6f;
         int t = (int) f;
         System.out.println(t);

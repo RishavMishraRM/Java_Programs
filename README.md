@@ -10,7 +10,7 @@
 4. conv_cast.java : conv_cast.class
 5. operators.java : operators.class
 6. assignment_operator.java : assignment_operator.class
-7. arithematic_operator.java
+7. arithematic_operator.java : arithematic_operator.class
 8. conditional_operator.java
 9. logical_operator.java
 10. 

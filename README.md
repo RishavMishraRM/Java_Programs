@@ -1,7 +1,7 @@
 # Java Programs
 =================
 
-## Adding Files with java programs
+## Adding Files with java programs and class
 ====================================
 
 1. hello.java : Hello.class

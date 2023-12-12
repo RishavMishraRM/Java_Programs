@@ -12,5 +12,5 @@
 6. assignment_operator.java : assignment_operator.class
 7. arithematic_operator.java : arithematic_operator.class
 8. conditional_operator.java : conditional_operator.class
-9. logical_operator.java : 
+9. logical_operator.java : logical_operator.class
 10. 
